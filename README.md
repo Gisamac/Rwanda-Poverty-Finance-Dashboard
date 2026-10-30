@@ -8,6 +8,7 @@ python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activa
 pip install -r requirements.txt
 python app.py                                      # http://localhost:5000
 ```
+**🌍 Live Demo:** (https://poverty-finance-nexus.onrender.com)
 
 ## Add your contact details
 Edit `config.py` (or set the environment variables in `.env.example`). They update the footer, Contact page and copyright line.
