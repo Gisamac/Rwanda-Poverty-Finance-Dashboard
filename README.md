@@ -9,6 +9,7 @@ pip install -r requirements.txt
 python app.py                                      # http://localhost:5000
 ```
 **🌍 Live Demo:** (https://poverty-finance-nexus.onrender.com)
+Video demo; https://drive.google.com/file/d/1aAaYUwV0wLDDuvIrhb4zIflgkEjaFMjK/view?usp=sharing
 
 ## Add your contact details
 Edit `config.py` (or set the environment variables in `.env.example`). They update the footer, Contact page and copyright line.
